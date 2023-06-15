@@ -11,3 +11,5 @@ platform-tools
 wget
 nano-git
 
+[**İNDİR**](https://github.com/omerdynasty/adb-kit/releases)
+
