@@ -1,5 +1,5 @@
 # ADB Kit
-Bu kit sayesinde android telefonuza bir şeyler kurabilirsiniz.
+Bu kit sayesinde android telefonuz üzerinde adb işlemleri gerçekleştirebilirsiniz.
 
 ## Güncel Olarak Yapabildiği İşlemler
 ![image](https://github.com/omerdynasty/adb-kit/assets/74985599/fbdb5555-0c5c-4832-a18e-647b39751bda)
