@@ -1,4 +1,5 @@
 # ADB Kit
+## Batch Script
 Bu kit sayesinde android telefonuz üzerinde adb işlemleri gerçekleştirebilirsiniz.
 
 ## Güncel Olarak Yapabildiği İşlemler
